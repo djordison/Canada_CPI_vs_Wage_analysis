@@ -3,7 +3,8 @@
 > Analysis of Canadian consumer cost vs wage growth using numerical and visual Seaborn methods.
 
 - Issues
-No evaluation of different geographic regions
+
+No evaluation of different geographic regions. 
 Could not find clean method to label multiple lines directly in matplotlib or Seaborn.
 
 
